@@ -9,7 +9,7 @@ export class AppComponent implements OnInit, AfterViewInit {
   public current;
   public currentX;
   public currentY;
-  public marioImg = '<img style="display: block;margin: 0 auto;" width="50%;" src="../assets/images/super-mario.png">';
+  public marioImg = '<img style="display: block;margin: 0 auto;" width="80%;" src="../assets/images/super-mario.png">';
   public keypressed;
   public userInputWidth;
   public userInputHeight;
